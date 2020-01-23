@@ -1,0 +1,13 @@
+In this preview, I have put together most of what I need to create the atmosphere that I am looking for. 
+At this point, I have not recorded any of my own sounds, but instead have found usable audio source on the internet for most 
+of what I need. I'll go through each of the sounds that I have added. In the background, I used an audio file containing the various
+ambient sounds that are heard in a room. To further create a sense of immersion, I have added sounds of cars passing by outside.
+The original clip for this had the car sounds close together, so I needed to cut it up in a way that sounded normal in order to have them
+throughout the whole soundscape. I also have a sound of kitchen noises which I have attempted to make sound farther away but havent quite
+gotten that right yet. For my TV sound, I found a clip from Avatar The Last Airbender and turned it into an mp3.
+This clip eventually cuts out as an air raid siren begins to be heard in the background. This is all quickly followed by the EAS headers
+that are surprisingly available for download on FEMA's website. At this point, I dont have any message associated with the EAS alert;
+I plan to create them by downloading a text to speech program that can use the same voice that is heard in real EAS alerts. 
+In addition to this, I need to really sync everything up so it sounds realistic. The core of my soundscape is yet to be recorded.
+This is the interaction between the two roommates, which will be played by my friend Madi and myself. Once I get this recorded,
+the soundscape should really come together, and will hopefully sound believable and not cringey
