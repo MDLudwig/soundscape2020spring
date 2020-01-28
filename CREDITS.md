@@ -1,0 +1,35 @@
+- Title: Free Sound Effects | Police Siren | HD High Quality
+   - Author: Youtube user Sound Source
+   - Link: https://www.youtube.com/watch?v=xhGjeA99ei8
+   - License: cc by
+   - Edits: changes were made to this audio
+- Title: KITCHEN
+   - Author: Freesound user Yahaveva
+   - Link: https://freesound.org/people/yahaveva/sounds/444844/
+   - License: cc 0
+- EAS Header Tones
+   - Author: FEMA
+   - Link: https://www.fema.gov/media-library/assets/audio/132794
+   - Fair Use
+- Title: Roomtone wiht subtle heating noise
+   - Author: Freesound user michaelkoehler
+   - Link: https://freesound.org/people/michaelkoehler/sounds/275520/
+   - License: cc 0
+- Title: Air Raid Siren Alarm
+   - Author: Freesound user ScreamStudio
+   - Link: https://freesound.org/people/ScreamStudio/sounds/412171/
+   - License: cc 0 
+- Title: Sokka’s Expert Advice | Avatar: The Last Airbender | NickRewind
+   - Author: Youtube user NickRewind
+   - Link: https://www.youtube.com/watch?v=C4bevJm-MbI
+   - License: cc by
+   - Edits: changes were made to this audio
+- Title: Car Passing By
+   - Author: Freesound user audio_stock
+   - Link: https://freesound.org/people/audio_stock/sounds/377003/
+   - License: cc by nc
+   - Edits: changes were made to this audio
+- Title: North Korea Nuclear Attack EAS
+   - Author: Youtube user Aspiller98
+   - Link: https://www.youtube.com/watch?v=m25a-uHIDfo
+   - Fair use
