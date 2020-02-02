@@ -30,7 +30,10 @@ Outsourced Sounds:
    - Aspiller98
    - https://www.youtube.com/watch?v=m25a-uHIDfo
    - fair use
-
+- Car Startup
+   - Duesenbert
+   - https://freesound.org/people/Duesenbert/sounds/404431/
+   - cc 0
 Self Sourced Sounds:
  - Dialog
    - Me + Madi Estep
