@@ -1,3 +1,3 @@
 Title: "A Not So Normal Night"
-This is the current draft of my soundscape, it is a story about two roommates and how they react to an emergency alert about a nuclear 
-attack. 
+This is a story about a normal night for two roommates, and how that night quickly changes in response to an emergency alert that they hear
+on the TV. 
